@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Blog App with React-Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
